@@ -1,0 +1,27 @@
+
+.container {
+    width: 400px;
+    margin: 20px auto;
+    padding: 0px 40px;
+    background-color: aliceblue;
+    border: 1px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px lightblue;
+}
+
+input {
+    margin-bottom: 20px;
+}
+
+.punktDiv {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.punktDiv p {
+    margin: 5px;
+}
+.ferdig {
+    text-decoration: line-through;
+}
