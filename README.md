@@ -10,7 +10,6 @@ Ganske bra funksjonalitet nå:
 
 TODO:
 - Kunne lagret en "nøkkel" f.eks. 3 random bokstaver som man blir tildelt OG lagrer i local storage
--- så henter man bare items som har denne nøkkelen
--- kan editere nøkkelen - så kan man synche mellom ulike devices
+  - så henter man bare items som har denne nøkkelen
+  - kan editere nøkkelen - så kan man synche mellom ulike devices
 
-    
